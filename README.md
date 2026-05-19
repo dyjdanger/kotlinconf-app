@@ -1,6 +1,6 @@
 [![JetBrains official project](http://jb.gg/badges/official.svg)](https://confluence.jetbrains.com/display/ALL/JetBrains+on+GitHub) 
 
-# KotlinConf App
+# KotlinConf App1
 
 This repository contains the source code of the official application for [KotlinConf](https://kotlinconf.com/).
 
